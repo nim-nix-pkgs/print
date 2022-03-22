@@ -9,7 +9,7 @@
   
   inputs.src-print-1_0_1.flake = false;
   inputs.src-print-1_0_1.owner = "treeform";
-  inputs.src-print-1_0_1.ref   = "refs/tags/1.0.1";
+  inputs.src-print-1_0_1.ref   = "1_0_1";
   inputs.src-print-1_0_1.repo  = "print";
   inputs.src-print-1_0_1.type  = "github";
   
