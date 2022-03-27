@@ -11,6 +11,7 @@
   inputs.src-print-1_0_0.ref   = "refs/tags/1.0.0";
   inputs.src-print-1_0_0.owner = "treeform";
   inputs.src-print-1_0_0.repo  = "print";
+  inputs.src-print-1_0_0.dir   = "";
   inputs.src-print-1_0_0.type  = "github";
   
   outputs = { self, nixpkgs, flakeNimbleLib, ...}@deps:
