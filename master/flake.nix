@@ -11,7 +11,6 @@
   inputs.src-print-master.ref   = "refs/heads/master";
   inputs.src-print-master.owner = "treeform";
   inputs.src-print-master.repo  = "print";
-  inputs.src-print-master.dir   = "";
   inputs.src-print-master.type  = "github";
   
   outputs = { self, nixpkgs, flakeNimbleLib, ...}@deps:
